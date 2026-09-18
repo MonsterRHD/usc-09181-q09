@@ -10,3 +10,7 @@ coverage/
 __pycache__/
 *.py[cod]
 .DS_Store
+
+# 资料室运行时持久化快照
+data/
+*.json.tmp
